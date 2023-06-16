@@ -10,6 +10,7 @@
                             <h3 class="text-primary"><i class="fa fa-user-edit me-2"></i><span>Go</span>Buyit</h3>
                         </a>
                         <h3> <b>Sign-In</b></h3>
+                        <h3> <b>Sign-In</b></h3>
                     </div>
                     <div class="form-floating mb-3">
                         <label for="floatingInput">Email address:</label> <br>
